@@ -6,4 +6,4 @@ Acesse aqui o [Colab](https://colab.research.google.com/drive/1-wwVX8itNwgVSq4hw
 
 ## Aula 2 - Classificação
 Acesse aqui o [Colab](https://colab.research.google.com/drive/1GC6sSy5rj5I1YBPb9aPoNblgx4duTrtD?usp=sharing)
-E aqui o [artigo](https://scott.fortmann-roe.com/docs/BiasVariance.html)
+e aqui o [artigo](https://scott.fortmann-roe.com/docs/BiasVariance.html)
